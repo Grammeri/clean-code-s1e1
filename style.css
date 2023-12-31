@@ -109,7 +109,7 @@
     vertical-align: middle;
   }
 
-  .task-list > input[type="checkbox"] {
+  .task-list > .checkbox-input {
     margin: 0 10px;
   }
   .task-list > label {
@@ -137,15 +137,15 @@
   }
 
   /* Edit Task */
-  .all-tasks .task-list input[type=text] {
+  .all-tasks .task-list .text-input {
     display: none
   }
 
-  .all-tasks .task-list.editMode input[type=text] {
+  .all-tasks .task-list.editMode .text-input {
     display: inline-block;
     width: 224px
   }
 
  .all-tasks .task-list.editMode .main-page-label {
-    display: none;
+   display: none;
   }
