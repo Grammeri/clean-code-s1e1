@@ -142,11 +142,11 @@
     display: none;
   }
 
-  .todo__all-tasks .todo__task-list--edit-mode .todo__text-input {
+  .todo__all-tasks .todo__task-list_edit-mode .todo__text-input {
     display: inline-block;
     width: 224px;
   }
 
- .todo__all-tasks .todo__task-list--edit-mode .todo__main-page-label {
+ .todo__all-tasks .todo__task-list_edit-mode .todo__main-page-label {
    display: none;
   }
