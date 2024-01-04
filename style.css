@@ -53,7 +53,7 @@
     color: #888;
     font-size: 15px;
     width: 60px;
-    font-family: lato, sans-serif;
+    font-family: Lato, sans-serif;
     cursor: pointer;
   }
   button:hover {
@@ -62,7 +62,7 @@
 
   /* Heading */
   .todo__main-page-subtitle,
-  .todo__new-task-label {
+  .todo__new-task-title {
     color: #333;
     font-weight: 700;
     font-size: 15px;
@@ -80,7 +80,7 @@
     border: 1px solid #dDd;
     background: #FFF;
     border-radius: 6px;
-    font-family: lato, sans-serif;
+    font-family: Lato, sans-serif;
     color: #888;
   }
   .todo__text-input:focus {
@@ -88,7 +88,7 @@
   }
 
   /* New Task */
-  .todo__new-task-label {
+  .todo__new-task-title {
     display: block;
     margin: 0 0 20px;
   }
