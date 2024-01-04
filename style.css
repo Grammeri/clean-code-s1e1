@@ -77,8 +77,8 @@
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    background: #FFF;
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
@@ -124,11 +124,11 @@
   }
   .todo__delete .todo__remove-task {
     height: 2em;
-    transform: rotateZ(45deg);
+    transform: rotatez(45deg);
     transition: transform 200ms ease-in;
   }
   .todo__delete .todo__remove-task:hover {
-    transform: rotateZ(0);
+    transform: rotatez(0);
   }
 
   /* Completed */
