@@ -147,6 +147,6 @@
     width: 224px;
   }
 
- .todo__all-tasks .todo__task-list_edit-mode .todo__main-page-label {
+ .todo__all-tasks .todo__task-list_edit-mode .todo__integrated-task {
    display: none;
   }
