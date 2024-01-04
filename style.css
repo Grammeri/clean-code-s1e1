@@ -61,7 +61,7 @@
   }
 
   /* Heading */
-  .todo__main-page-subtitle,
+  .todo__task-status,
   .todo__new-task-title {
     color: #333;
     font-weight: 700;
